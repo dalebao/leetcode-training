@@ -29,7 +29,7 @@ public class Maximum69NumberSolution {
         maximum69NumberSolution.maximum69Number(9669);
     }
 
-
+    // todo:: demo code not leetcode code
     public static class Depart {
 
         private Integer id;

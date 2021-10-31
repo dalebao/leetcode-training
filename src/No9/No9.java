@@ -30,13 +30,5 @@ public class No9 {
     }
 
     public static void main(String[] args) {
-        System.out.println(frogJump(1));
-        System.out.println(frogJump(2));
-        System.out.println(frogJump(5));
-        System.out.println(frogJump(10));
-        System.out.println(JumpFloor(1));
-        System.out.println(JumpFloor(2));
-        System.out.println(JumpFloor(5));
-        System.out.println(JumpFloor(10));
     }
 }

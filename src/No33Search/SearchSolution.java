@@ -1,7 +1,5 @@
 package No33Search;
 
-import java.util.Arrays;
-
 public class SearchSolution {
 
     public int search(int[] nums, int target) {

@@ -15,7 +15,7 @@ public class GenerateParenthesisSolution {
 
     void dfs(StringBuilder sb, int left, int right, int max) {
         if (sb.length() == 2 * max) {
-            res.add(new String(sb.toString()));
+            res.add(sb.toString());
             return;
         }
 
